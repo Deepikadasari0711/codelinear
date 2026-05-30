@@ -11,8 +11,15 @@ Pixel-close responsive implementation of the selected N7 banking Figma frame.
 
 ## Getting Started
 
+Install all required packages, including Next.js, React, TypeScript, Tailwind CSS, and React Icons:
+
 ```bash
 npm install
+```
+
+Run the development server:
+
+```bash
 npm run dev
 ```
 
